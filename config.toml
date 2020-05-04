@@ -1,0 +1,55 @@
+baseURL = "https://mattlevan.github.io"
+languageCode = "en-us"
+title = "Matthew Levan"
+theme = "archie"
+
+copyright = "© Matthew Levan"
+
+# enable syntax highlighting
+pygmentsstyle = "colorful"
+pygmentscodefencers = true
+pygmentscodefencesguesssyntax = true
+
+# params
+[params]
+	subtitle = "Reflections on computers."
+	# disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+	mode = "auto"
+
+# google, disqus
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "mattlevan"
+
+# number of posts to show in recent posts list (optional)
+paginate = 5
+
+# number of characters to show in summary
+summaryLength = 25
+
+# main menu
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+# social links
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/mattlevan"
