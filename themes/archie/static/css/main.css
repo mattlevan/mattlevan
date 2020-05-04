@@ -1,5 +1,5 @@
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,500&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,500&display=swap'); */
 /* Markdown */
 :root{
 --maincolor: royalblue;
@@ -10,7 +10,7 @@
 }
 html {
   color: #232333;
-  font-family: 'Fira Mono';
+  font-family: 'Fira Sans', sans-serif;
   font-size: 15px;
   line-height: 1.6em;
 }
@@ -185,7 +185,7 @@ article .title {
 }
 
 .callout p {
-  font-family: 'Fira Mono', monospace;
+  font-family: 'Fira Code', monospace;
   margin: 0;
 }
 
