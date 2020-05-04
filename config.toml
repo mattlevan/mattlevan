@@ -13,9 +13,11 @@ pygmentscodefencesguesssyntax = true
 # params
 [params]
 	subtitle = "Reflections on computers."
+	mainSections = ["posts"]
 	# disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto"
+	favicon = "icons/favicon-32x32.png"
 
 # google, disqus
 # googleAnalytics = "UA-123-45"
