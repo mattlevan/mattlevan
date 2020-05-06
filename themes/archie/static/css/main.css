@@ -176,7 +176,6 @@ article .title {
   margin-bottom: 1em;
 }
 
-
 /* Callout */
 .callout {
   background-color: var(--callouctcolor);
@@ -225,4 +224,35 @@ svg{
     border-radius: 4px;
     margin-left: 6px;
     background-color: #f9f2f4;
+}
+
+/* Forms */
+input[type=text], input[type=email], select, textarea {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6em;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6em;
+  background-color: royalblue;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: gold;
 }
