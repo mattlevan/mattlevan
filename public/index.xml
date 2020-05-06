@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Levan</title>
+    <link>https://mattlevan.github.io/</link>
+    <description>Recent content on Matthew Levan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Matthew Levan</copyright>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mattlevan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mattlevan.github.io/contact/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattlevan.github.io/contact/</guid>
+      <description>Send me a message.
+  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mattlevan.github.io/about/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattlevan.github.io/about/</guid>
+      <description>Hi, I&amp;rsquo;m Matt. I&amp;rsquo;m a data and software engineer at Honeywell. I live in Phoenix, AZ.</description>
+    </item>
+    
+    <item>
+      <title>Hello, world.</title>
+      <link>https://mattlevan.github.io/posts/hello/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattlevan.github.io/posts/hello/</guid>
+      <description>Hello, world. I thought I&amp;rsquo;d build a personal website just for fun, and, since I&amp;rsquo;ve been wanting to learn Go, I decided to pick up Hugo, the static-site generator. This is my first post. It took about an hour to set everything up with GitHub Pages&amp;ndash; not bad!
+I&amp;rsquo;ll use this space as a scratchpad to try various features.
+Various features How about code blocks?
+import this x = [1, 2, 3] And images?</description>
+    </item>
+    
+  </channel>
+</rss>
