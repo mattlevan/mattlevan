@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true
 	favicon = "/icons/favicon-32x32.png"
 
 # google, disqus
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-166037172-1"
 # disqusShortname = "mattlevan"
 
 # number of posts to show in recent posts list (optional)
