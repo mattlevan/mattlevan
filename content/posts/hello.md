@@ -24,6 +24,6 @@ x = [1, 2, 3]
 
 And images?
 
-{{< figure src="https://i.redd.it/x4sydei4pkw41.jpg" >}}
+![An image!](https://i.redd.it/x4sydei4pkw41.jpg "An image!")
 
 *Fin.*

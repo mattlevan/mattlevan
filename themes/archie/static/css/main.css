@@ -3,9 +3,9 @@
 /* Markdown */
 :root{
 --maincolor: royalblue;
---bordercl: darkgoldenrod;
+--bordercl: gold;
 --callouctcolor: dodgerblue;
---hovercolor: lightslategrey;
+--hovercolor: gold;
 --darkMaincolor: #50fa7b;
 }
 html {
@@ -69,7 +69,7 @@ ul li::before {
 
 /* Images */
 img {
-  border: 3px solid #ececec;
+  /* border: 3px solid #ececec; */
   max-width: 100%;
 }
 
